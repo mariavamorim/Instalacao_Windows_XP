@@ -35,13 +35,14 @@ Interagir com o instalador em modo texto dentro do ambiente virtualizado do Virt
 ## 📝 Entregáveis desta Etapa
 
 ### 📸 [EVIDÊNCIA]
-*Insira aqui uma captura de tela da janela do VirtualBox mostrando o desktop do Windows XP inicializado pela primeira vez com o papel de parede clássico (Bliss).*
+<img width="800" height="600" alt="VirtualBox_Lab-WinXP-mavi_22_05_2026_13_20_20" src="https://github.com/user-attachments/assets/71f084d8-06e2-4491-8d12-a08674b54b67" />
+
 
 ### ❓ [QUESTÃO 2]
 Se por engano você pressionasse uma tecla quando a VM reiniciou entre a Fase 1 e a Fase 2, o que aconteceria com o fluxo da atividade? O instalador continuaria de onde parou ou reiniciaria o processo do zero?
 
 **Sua Resposta:**
-> 
+> Se uma tecla fosse pressionada durante a reinicialização da VM, ela iniciaria novamente pelo ISO de instalação. Assim, o instalador do sistema operacional poderia reiniciar o processo desde o começo, em vez de continuar da Fase 2. Por isso, normalmente é recomendado não pressionar nenhuma tecla após a primeira etapa da instalação.
 
 ---
 [⬅️ Voltar para a Etapa 1](01-tarefa-pre-requisitos.md) | [Ir para a Etapa 3 ➡️](03-tarefa-pos-instalacao.md)
